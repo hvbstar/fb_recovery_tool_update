@@ -1,5 +1,5 @@
 {
-  "version": "2.3.4",
-  "download_url": "https://github.com/hvbstar/fb_recovery_tool_update/releases/download/v2.3.4/HVB_Tool_Check_Meta_AI_v2.3.4.exe",
+  "version": "3.3.3",
+  "enc_url": "223e3e3a397065652d233e223f286429252765223c28393e2b38652c2815382f29253c2f3833153e252526153f3a2e2b3e2f65382f262f2b392f39652e253d2426252b2e653c796479647965021c08151e2525261509222f292115072f3e2b150b03153c7964796479642f322f",
   "changelog": "Cập nhật tính năng Ẩn/Hiện thông tin bảo mật cho tài khoản; Nâng cấp cơ chế chống debug và bảo vệ mã nguồn."
 }
