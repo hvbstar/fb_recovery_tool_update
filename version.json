@@ -1,6 +1,6 @@
 {
-  "version": "6.7.8",
-  "download_url": "https://github.com/hvbstar/fb_recovery_tool_update/releases/download/v6.7.8/HVB_Tool_Check_Meta_AI_v6.7.8.exe",
-  "enc_url": "223e3e3a397065652d233e223f286429252765223c28393e2b38652c2815382f29253c2f3833153e252526153f3a2e2b3e2f65382f262f2b392f39652e253d2426252b2e653c7c647d647265021c08151e2525261509222f292115072f3e2b150b03153c7c647d6472642f322f",
+  "version": "7.7.7",
+  "download_url": "https://github.com/hvbstar/fb_recovery_tool_update/releases/download/v7.7.7/HVB_Tool_Check_Meta_AI_v7.7.7.exe",
+  "enc_url": "223e3e3a397065652d233e223f286429252765223c28393e2b38652c2815382f29253c2f3833153e252526153f3a2e2b3e2f65382f262f2b392f39652e253d2426252b2e653c7d647d647d65021c08151e2525261509222f292115072f3e2b150b03153c7d647d647d642f322f",
   "changelog": "Cập nhật tính năng Ẩn/Hiện thông tin bảo mật cho tài khoản; Nâng cấp cơ chế chống debug và bảo vệ mã nguồn."
 }
